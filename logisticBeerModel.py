@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import math
 
-# df_raw = pd.read_csv("./Evidencia1/beers.csv")
+# df_raw = pd.read_csv("beers.csv")
 # df_clean = df_raw[['abv','ibu','style']].dropna().reset_index().copy()
 
 # df_x = df_clean[['abv','ibu']]
