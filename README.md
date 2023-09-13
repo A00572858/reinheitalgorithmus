@@ -4,5 +4,3 @@ The " Reinheit Algorithmus" or "Purity Algorithm" is a Machine Learning classifi
 
 The file "beers.csv" contains data on 2000+ american craft beers taken from (https://www.kaggle.com/datasets/nickhould/craft-cans)
 
-# Notes on current version
-NaN
